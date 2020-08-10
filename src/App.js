@@ -1,7 +1,6 @@
 import React from 'react';
 import Child1 from './components/Child1';
 import './App.css';
-import e from 'express';
 
 class App extends React.Component {
   constructor(){
