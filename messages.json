@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "title": "When in the Course of human events"
+    },
+    {
+        "id": 2,
+        "user_id": 1,
+        "title": "it becomes necessary for one people to dissolve the political bands which have connected them with another,"
+    },
+    {
+        "id": 3,
+        "user_id": 1,
+        "title": ", and to assume among the powers of the earth,"
+    },
+    {
+        "id": 4,
+        "user_id": 1,
+        "title": "the separate and equal station to whcih the Laws of Nature and of Nature's God entitle them,"
+    },
+    {
+        "id": 5,
+        "user_id": 1,
+        "title": "a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation"
+    }
+]
